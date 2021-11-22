@@ -1,1 +1,1 @@
-## Beginner C++ Projects (And Progress💫)
+## Beginner C++ Projects 
